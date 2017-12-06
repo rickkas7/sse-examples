@@ -1,0 +1,21 @@
+{
+    "name": "10-google-clouddatastore",
+    "version": "0.0.1",
+    "description": "Sample SSE server writes to Google Cloud Datastore.",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "rickkas7@github.com",
+    "contributors": [
+    ],
+    "license": "Apache Version 2.0",
+    "dependencies": {
+    	"@google-cloud/datastore": "1.1.0",
+        "particle-api-js": "^6.4.3",
+    	"nconf": "0.8.5"
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    }
+}

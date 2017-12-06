@@ -1,0 +1,20 @@
+{
+    "name": "02-mysql",
+    "version": "0.0.1",
+    "description": "Sample SSE server that writes to MySQL.",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "rickkas7@github.com",
+    "contributors": [
+    ],
+    "license": "Apache Version 2.0",
+    "dependencies": {
+        "particle-api-js": "^6.4.3",
+        "mysql": "^2.15.0"
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    }
+}

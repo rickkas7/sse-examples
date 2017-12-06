@@ -1,0 +1,19 @@
+{
+    "name": "01-simple-data-printer",
+    "version": "0.0.1",
+    "description": "Sample SSE server that prints out events.",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "rickkas7@github.com",
+    "contributors": [
+    ],
+    "license": "Apache Version 2.0",
+    "dependencies": {
+        "particle-api-js": "^6.4.3"
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    }
+}

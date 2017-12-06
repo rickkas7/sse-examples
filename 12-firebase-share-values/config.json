@@ -1,0 +1,8 @@
+{
+  "GCLOUD_PROJECT": "test4-188115",
+  "AUTH_TOKEN":"fe12630d2dbbd1ca6e8e28bd5a4b953dd3f1c53f",
+  "DEVICE_FILTER":"mine",
+  "FIREBASE_CERT_FILE":"test4-f9398-firebase-adminsdk-cknpd-00a9ab49f3.json",
+  "FIREBASE_DATABASE":"test4-f9398",
+  "FIREBASE_PARENT":"ssetest12"
+}
